@@ -1,0 +1,32 @@
+
+.container{
+    width: 430px;
+    margin: 130px auto;
+    position: relative;
+    
+
+        form{  
+        position: absolute;
+        background: white;
+        width: 100%;
+        padding: 20px 10px 50px 30px;
+        box-sizing: border-box;
+        border: 2px solid #6d1c7d;
+        border-radius: 0 0 5px 5px;
+        color:black;
+           
+            input{
+                height: 50px;
+                width: 90%;
+                padding: 0 10px;
+                border: 1px solid silver;
+                border-radius: 3px;
+                font-size: 18px;
+                outline: none;
+                background: rgb(245, 245, 245);
+        
+            }
+    }
+   
+}
+
